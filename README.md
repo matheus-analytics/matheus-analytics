@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Me chamo Matheus Carvalho dos Santos Costa, tenho 26 anos e sou natural de São Paulo. Sou graduado em Sistemas de Informação.
+Me chamo Matheus Carvalho dos Santos Costa, sou natural de São Paulo. Sou graduado em Sistemas de Informação.
 
 Tenho foco em Análise de Dados, com experiência em SQL e ferramentas de BI. Busco extrair dos dados informações relevantes para o negócio, desenvolvendo e documentando projetos neste repositório.
 
