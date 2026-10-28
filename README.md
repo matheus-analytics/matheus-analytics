@@ -40,13 +40,6 @@ Atualmente, venho me preparando para minha primeira oportunidade como Analista d
 
 ---
 
-### 📈 Estatísticas GitHub
-
-<p>
- <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-analytics&show_icons=true&theme=tokyonight"
-  alt="GitHub Stats"
-/>
 
   <img 
     height="180" 
